@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Executa as migrations com `yarn prisma migrate dev`;
 - Inicie o servidor com `yarn dev`;
 
-A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
+A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
 
 ## 📄 Licença
 
